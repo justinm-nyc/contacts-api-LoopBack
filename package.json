@@ -1,5 +1,5 @@
 {
-  "name": "nodeSecurity",
+  "name": "contacts-api-LoopBack",
   "version": "1.0.0",
   "main": "server/server.js",
   "engines": {
@@ -29,5 +29,5 @@
     "url": ""
   },
   "license": "UNLICENSED",
-  "description": "nodeSecurity"
+  "description": "contacts-api-LoopBack"
 }
